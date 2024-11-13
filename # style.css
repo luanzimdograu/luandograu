@@ -1,0 +1,38 @@
+bodyr{
+
+    color: rgb 226, 43, 110;
+
+    background: black;
+
+    margin: 0px;
+
+}
+
+
+header{
+
+    border-bottom: solid 10px rgb(226, 43, 110);
+
+    padding: 20px;
+
+    font-size: 32px;
+
+    color: blueviolet;
+
+}
+ section{
+padding-bottom: 80px;
+padding-top: 80px;
+background-color: rgb(156, 37,37);
+display: flex;
+justify-content: center;
+ }
+
+ .chamada-texto{
+margin-right: 5%;
+
+ }
+
+
+
+
